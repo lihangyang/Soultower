@@ -1,0 +1,7 @@
+代码说明
+
+/d/Soultower/develop/Assets/Keycode.cs
+使用WASD控制角色移动，挂在要移动的对象上
+
+/d/Soultower/develop/Assets/CameraMovement.cs
+摄像机跟随，挂在你需要的摄像机上，把移动的对象拖到声明的followTaget上

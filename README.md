@@ -4,6 +4,9 @@ Unity3D 游戏 灵魂之塔
 
 U3D引擎版本 2017.4.1f1
 代码与组件均有注释，想加入并让这个世界变的更好，QQ群：779807723
+/Soultower/develop目录是项目主库
+/Soultower/Progress目录Code#.txt为代码说明 Resources.txt为资源说明 Plan.txt为已经实现的功能与计划实现的功能
+
 世界观：
   
 
