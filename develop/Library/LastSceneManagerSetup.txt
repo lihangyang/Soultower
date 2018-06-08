@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/chu.unity
+- path: Assets/Chu.unity
   isLoaded: 1
   isActive: 1
